@@ -1,1 +1,1 @@
-Hello, World from node02!
+Hello, World!
